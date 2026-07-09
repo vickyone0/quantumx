@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Bloch sphere for a Hadamard gate</title>
+  <desc id="desc">Bloch sphere showing the final qubit state along the positive X axis.</desc>
+  <rect width="900" height="620" fill="#fbfaf7"/>
+  <text x="450" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1d2628">Bloch Sphere - H Gate</text>
+  <circle cx="450" cy="330" r="190" fill="#f4efe6" stroke="#263234" stroke-width="3"/>
+  <ellipse cx="450" cy="330" rx="190" ry="58" fill="none" stroke="#9aa3a5" stroke-width="2" stroke-dasharray="8 8"/>
+  <ellipse cx="450" cy="330" rx="58" ry="190" fill="none" stroke="#9aa3a5" stroke-width="2" stroke-dasharray="8 8"/>
+  <line x1="450" y1="540" x2="450" y2="120" stroke="#263234" stroke-width="3"/>
+  <line x1="240" y1="330" x2="660" y2="330" stroke="#263234" stroke-width="3"/>
+  <line x1="302" y1="478" x2="598" y2="182" stroke="#8f9698" stroke-width="2"/>
+  <polygon points="450,105 440,130 460,130" fill="#263234"/>
+  <polygon points="675,330 650,320 650,340" fill="#263234"/>
+  <polygon points="608,172 582,180 600,198" fill="#8f9698"/>
+  <text x="450" y="96" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#1d2628">+Z |0&gt;</text>
+  <text x="450" y="579" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#1d2628">-Z |1&gt;</text>
+  <text x="704" y="337" font-family="Arial, sans-serif" font-size="22" fill="#1d2628">+X</text>
+  <text x="176" y="337" font-family="Arial, sans-serif" font-size="22" fill="#1d2628">-X</text>
+  <text x="617" y="166" font-family="Arial, sans-serif" font-size="22" fill="#3b4648">+Y</text>
+  <line x1="450" y1="330" x2="655" y2="330" stroke="#d96c4a" stroke-width="8" stroke-linecap="round"/>
+  <polygon points="682,330 642,312 642,348" fill="#d96c4a"/>
+  <circle cx="450" cy="330" r="7" fill="#263234"/>
+  <text x="450" y="596" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#3b4648">Final state after H|0&gt; points along the positive X axis.</text>
+</svg>

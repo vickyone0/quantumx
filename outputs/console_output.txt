@@ -1,0 +1,12 @@
+========================================
+  Single-Qubit Gate Explorer
+========================================
+
+Circuit after applying H (Hadamard) Gate:
+   ┌───┐
+q: ┤ H ├
+   └───┘
+
+Measurement probabilities:
+  P(|0>) = 0.5000  (50.0%)
+  P(|1>) = 0.5000  (50.0%)
