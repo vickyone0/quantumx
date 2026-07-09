@@ -75,9 +75,3 @@ P(|1>) = 0.5000  (50.0%)
 
 The Bloch sphere visualization shows the final state pointing along the positive X axis, which is the expected state after applying `H` to `|0>`.
 
-## Repository Submission Steps
-
-1. Create a GitHub repository.
-2. Push this project folder to that repository.
-3. Confirm the source code, README/report, and `outputs/` images are visible on GitHub.
-4. Share the GitHub repository link in the assignment submission channel on Discord.
